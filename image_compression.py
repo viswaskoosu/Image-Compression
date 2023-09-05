@@ -102,7 +102,7 @@ def creators():
     st.title("Creators")
     left , right = st.columns(2)
     with left : 
-        st.write("#### Viswas Koosu")
+        st.write("#### Koosu Viswas")
         st.image('viswas.jpg' , use_column_width= True , caption= "Mechanical Engineering , IIT Dharwad") 
     with right :
         st.write("#### Sankalp Nagaonkar")
